@@ -4,6 +4,21 @@
   }
 
   body{
-background: #82FFE8;
-opacity: 0.3;
+    position: relative;
+  }
+  .btn{
+width: 109px;
+height: 48px;
+align-items: center;
+background: #10B981;
+border-radius: 32px;
+display: flex;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+
+color: #FFFFFF;
   }
