@@ -98,6 +98,8 @@ color: #F0F3FD;
 .frame{
 width: 328px;
 height: 104px;
+display: flex;
+align-items: center;
 
 background: #FFFFFF;
 box-shadow: 0px 11px 48px rgba(51, 51, 51, 0.06);
@@ -109,6 +111,9 @@ border-radius: 32px;
 width: 201px;
 height: 104px;
 margin: 0px 16px;
+display: flex;
+align-items: center;
+justify-content: center;
 
 background: #FFFFFF;
 box-shadow: 0px 11px 48px rgba(51, 51, 51, 0.06);
@@ -119,9 +124,11 @@ border-radius: 32px;
 .frame2{
 width: 103px;
 height: 104px;
+display: flex;
+align-items: center;
 
 background: #FFFFFF;
 box-shadow: 0px 11px 48px rgba(51, 51, 51, 0.06);
-border-radius: 32px;
+border-radius: 32px 0px 0px 32px;
 }
   
