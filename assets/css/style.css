@@ -3,9 +3,7 @@
     src: url(../fonts/Lexend-VariableFont_wght.ttf);
   }
 
-  body{
-    position: relative;
-  }
+ 
   .btn{
 width: 109px;
 height: 48px;
@@ -131,4 +129,33 @@ background: #FFFFFF;
 box-shadow: 0px 11px 48px rgba(51, 51, 51, 0.06);
 border-radius: 32px 0px 0px 32px;
 }
-  
+ 
+.main-villa{
+  width: 135px;
+  height: 52px;
+  background: #D1FAE5;
+ border-radius: 32px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.main-villa1{
+ width: 119px;
+height: 52px;
+border: 1px solid #E0E3EB;
+border-radius: 32px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.main-villa2{
+width: 175px;
+height: 52px;
+border: 1px solid #E0E3EB;
+border-radius: 32px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
