@@ -160,3 +160,21 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
+
+.btn2{
+ width: 129px;
+height: 46px;
+background: #10B981;
+border-radius: 32px;
+border: transparent;
+}
+
+.text-section{
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+
+color: #888B97;
+}
